@@ -1,0 +1,552 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\hl2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.vmf
+Map revision 1890
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1256 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1009906 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7568 texinfos to 3762
+Reduced 316 texdatas to 253 (12818 bytes to 10728)
+Writing C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.bsp
+Wrote ZIP buffer, estimated size 842879, actual size 825513
+3 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.prt
+ 568 portalclusters
+1181 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 146 visible clusters (0.00%)
+Total clusters visible: 33600
+Average clusters visible: 59
+Building PAS...
+Average clusters audible: 124
+visdatasize:42770  compressed from 81792
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.bsp
+9037 faces
+2 degenerate faces
+943098 square feet [135806192.00 square inches]
+4 Displacements
+23398 Square Feet [3369353.00 Square Inches]
+9035 patches before subdivision
+143997 patches after subdivision
+402 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 16401571, max 755
+transfer lists: 125.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(197737, 153629, 102664)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(39005, 28300, 16522)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8442, 5590, 2793)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2329, 1438, 625)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(653, 368, 136)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(217, 113, 36)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(71, 34, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(26, 11, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(9, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0259 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  47/4096         2256/196608   ( 1.1%) 
+brushes               2768/32768       33216/393216   ( 8.4%) 
+brushsides           25650/65536      205200/524288   (39.1%) 
+planes               19588/65536      391760/1310720  (29.9%) 
+vertexes             15672/65536      188064/786432   (23.9%) 
+nodes                 2524/65536       80768/2097152  ( 3.9%) 
+texinfos              3762/12288      270864/884736   (30.6%) 
+texdata                253/2048         8096/65536    (12.4%) 
+dispinfos                4/0             704/0        ( 0.0%) 
+disp_verts             212/0            4240/0        ( 0.0%) 
+disp_tris              320/0             640/0        ( 0.0%) 
+disp_lmsamples       13096/0           13096/0        ( 0.0%) 
+faces                 9037/65536      506072/3670016  (13.8%) 
+hdr faces             9037/65536      506072/3670016  (13.8%) 
+origfaces             6200/65536      347200/3670016  ( 9.5%) 
+leaves                2572/65536       82304/2097152  ( 3.9%) 
+leaffaces            11469/65536       22938/131072   (17.5%) 
+leafbrushes           7045/65536       14090/131072   (10.7%) 
+areas                    6/1024           48/8192     ( 0.6%) 
+surfedges            69324/512000     277296/2048000  (13.5%) 
+edges                43914/256000     175656/1024000  (17.2%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        402/16384       35376/1441792  ( 2.5%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips           1006/131072      10060/1310720  ( 0.8%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         19944/131072      39888/262144   (15.2%) 
+cubemapsamples           8/1024          128/16384    ( 0.8%) 
+overlays                54/1024        19008/360448   ( 5.3%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     5839204/0        ( 0.0%) 
+visdata               [variable]       42770/16777216 ( 0.3%) 
+entdata               [variable]      353428/393216   (89.9%) VERY FULL!
+LDR ambient table     2572/65536       10288/262144   ( 3.9%) 
+HDR ambient table     2572/65536       10288/262144   ( 3.9%) 
+LDR leaf ambient      2572/65536       72016/1835008  ( 3.9%) 
+HDR leaf ambient      7057/65536      197596/1835008  (10.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/57354    ( 0.0%) 
+pakfile               [variable]     3374887/0        ( 0.0%) 
+physics               [variable]     1009906/4194304  (24.1%) 
+physics terrain       [variable]        1068/1048576  ( 0.1%) 
+
+Level flags = 2
+
+Total triangle count: 26370
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.bsp
+27 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\hl2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.vmf
+Map revision 1902
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1280 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1022354 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7642 texinfos to 3804
+Reduced 317 texdatas to 254 (12840 bytes to 10750)
+Writing C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.bsp
+Wrote ZIP buffer, estimated size 842879, actual size 825513
+4 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.prt
+ 611 portalclusters
+1295 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 159 visible clusters (0.00%)
+Total clusters visible: 38414
+Average clusters visible: 62
+Building PAS...
+Average clusters audible: 133
+visdatasize:48239  compressed from 97760
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.bsp
+9191 faces
+2 degenerate faces
+945147 square feet [136101280.00 square inches]
+4 Displacements
+23398 Square Feet [3369353.00 Square Inches]
+9189 patches before subdivision
+144299 patches after subdivision
+416 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 16373482, max 756
+transfer lists: 124.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(215794, 165914, 108799)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(40685, 29325, 16985)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8638, 5708, 2849)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2345, 1450, 633)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(657, 371, 138)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(218, 114, 36)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(71, 34, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(26, 11, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(9, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0263 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  47/4096         2256/196608   ( 1.1%) 
+brushes               2799/32768       33588/393216   ( 8.5%) 
+brushsides           25862/65536      206896/524288   (39.5%) 
+planes               19738/65536      394760/1310720  (30.1%) 
+vertexes             15916/65536      190992/786432   (24.3%) 
+nodes                 2599/65536       83168/2097152  ( 4.0%) 
+texinfos              3804/12288      273888/884736   (31.0%) 
+texdata                254/2048         8128/65536    (12.4%) 
+dispinfos                4/0             704/0        ( 0.0%) 
+disp_verts             212/0            4240/0        ( 0.0%) 
+disp_tris              320/0             640/0        ( 0.0%) 
+disp_lmsamples       13096/0           13096/0        ( 0.0%) 
+faces                 9191/65536      514696/3670016  (14.0%) 
+hdr faces             9191/65536      514696/3670016  (14.0%) 
+origfaces             6298/65536      352688/3670016  ( 9.6%) 
+leaves                2647/65536       84704/2097152  ( 4.0%) 
+leaffaces            11759/65536       23518/131072   (17.9%) 
+leafbrushes           7207/65536       14414/131072   (11.0%) 
+areas                    6/1024           48/8192     ( 0.6%) 
+surfedges            70451/512000     281804/2048000  (13.8%) 
+edges                44606/256000     178424/1024000  (17.4%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        416/16384       36608/1441792  ( 2.5%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips           1023/131072      10230/1310720  ( 0.8%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         20226/131072      40452/262144   (15.4%) 
+cubemapsamples           8/1024          128/16384    ( 0.8%) 
+overlays                54/1024        19008/360448   ( 5.3%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     5866580/0        ( 0.0%) 
+visdata               [variable]       48239/16777216 ( 0.3%) 
+entdata               [variable]      373289/393216   (94.9%) VERY FULL!
+LDR ambient table     2647/65536       10588/262144   ( 4.0%) 
+HDR ambient table     2647/65536       10588/262144   ( 4.0%) 
+LDR leaf ambient      2647/65536       74116/1835008  ( 4.0%) 
+HDR leaf ambient      7658/65536      214424/1835008  (11.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/58506    ( 0.0%) 
+pakfile               [variable]     3400001/0        ( 0.0%) 
+physics               [variable]     1022354/4194304  (24.4%) 
+physics terrain       [variable]        1068/1048576  ( 0.1%) 
+
+Level flags = 2
+
+Total triangle count: 26791
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.bsp
+32 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\hl2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.vmf
+Map revision 1919
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1280 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1041276 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7810 texinfos to 3888
+Reduced 319 texdatas to 256 (12887 bytes to 10797)
+Writing C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.bsp
+Wrote ZIP buffer, estimated size 842879, actual size 825513
+3 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.prt
+ 623 portalclusters
+1342 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 297 visible clusters (0.00%)
+Total clusters visible: 39652
+Average clusters visible: 63
+Building PAS...
+Average clusters audible: 138
+visdatasize:50115  compressed from 99680
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.bsp
+9319 faces
+2 degenerate faces
+1325570 square feet [190882176.00 square inches]
+4 Displacements
+23398 Square Feet [3369353.00 Square Inches]
+9317 patches before subdivision
+144545 patches after subdivision
+412 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 16391419, max 756
+transfer lists: 125.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(210910, 162564, 107088)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(40020, 28884, 16726)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8575, 5671, 2827)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2329, 1438, 626)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(654, 369, 137)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(217, 113, 36)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(71, 34, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(26, 11, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(9, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0260 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  53/4096         2544/196608   ( 1.3%) 
+brushes               2850/32768       34200/393216   ( 8.7%) 
+brushsides           26163/65536      209304/524288   (39.9%) 
+planes               19840/65536      396800/1310720  (30.3%) 
+vertexes             16155/65536      193860/786432   (24.7%) 
+nodes                 2683/65536       85856/2097152  ( 4.1%) 
+texinfos              3888/12288      279936/884736   (31.6%) 
+texdata                256/2048         8192/65536    (12.5%) 
+dispinfos                4/0             704/0        ( 0.0%) 
+disp_verts             212/0            4240/0        ( 0.0%) 
+disp_tris              320/0             640/0        ( 0.0%) 
+disp_lmsamples       13096/0           13096/0        ( 0.0%) 
+faces                 9319/65536      521864/3670016  (14.2%) 
+hdr faces             9319/65536      521864/3670016  (14.2%) 
+origfaces             6416/65536      359296/3670016  ( 9.8%) 
+leaves                2737/65536       87584/2097152  ( 4.2%) 
+leaffaces            11919/65536       23838/131072   (18.2%) 
+leafbrushes           7357/65536       14714/131072   (11.2%) 
+areas                    6/1024           48/8192     ( 0.6%) 
+surfedges            71596/512000     286384/2048000  (14.0%) 
+edges                45297/256000     181188/1024000  (17.7%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        412/16384       36256/1441792  ( 2.5%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips           1047/131072      10470/1310720  ( 0.8%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         20724/131072      41448/262144   (15.8%) 
+cubemapsamples           8/1024          128/16384    ( 0.8%) 
+overlays                54/1024        19008/360448   ( 5.3%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     5893136/0        ( 0.0%) 
+visdata               [variable]       50115/16777216 ( 0.3%) 
+entdata               [variable]      376873/393216   (95.8%) VERY FULL!
+LDR ambient table     2737/65536       10948/262144   ( 4.2%) 
+HDR ambient table     2737/65536       10948/262144   ( 4.2%) 
+LDR leaf ambient      2737/65536       76636/1835008  ( 4.2%) 
+HDR leaf ambient      8107/65536      226996/1835008  (12.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/58552    ( 0.0%) 
+pakfile               [variable]     3404201/0        ( 0.0%) 
+physics               [variable]     1041276/4194304  (24.8%) 
+physics terrain       [variable]        1068/1048576  ( 0.1%) 
+
+Level flags = 2
+
+Total triangle count: 27208
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.bsp
+32 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\hl2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.vmf
+Map revision 1924
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\source sdk base 2013 multiplayer\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1280 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1044300 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7824 texinfos to 3891
+Reduced 319 texdatas to 256 (12887 bytes to 10797)
+Writing C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.bsp
+Wrote ZIP buffer, estimated size 842879, actual size 825513
+3 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.prt
+ 622 portalclusters
+1329 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 275 visible clusters (0.00%)
+Total clusters visible: 39401
+Average clusters visible: 63
+Building PAS...
+Average clusters audible: 138
+visdatasize:50282  compressed from 99520
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.bsp
+9312 faces
+2 degenerate faces
+1325571 square feet [190882272.00 square inches]
+4 Displacements
+23398 Square Feet [3369353.00 Square Inches]
+9310 patches before subdivision
+144502 patches after subdivision
+411 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 16390552, max 756
+transfer lists: 125.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(210685, 162535, 107090)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(40026, 28902, 16736)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8581, 5676, 2829)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2332, 1440, 626)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(655, 370, 137)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(217, 113, 36)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(71, 34, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(26, 11, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(9, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0263 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  53/4096         2544/196608   ( 1.3%) 
+brushes               2859/32768       34308/393216   ( 8.7%) 
+brushsides           26251/65536      210008/524288   (40.1%) 
+planes               19874/65536      397480/1310720  (30.3%) 
+vertexes             16155/65536      193860/786432   (24.7%) 
+nodes                 2681/65536       85792/2097152  ( 4.1%) 
+texinfos              3891/12288      280152/884736   (31.7%) 
+texdata                256/2048         8192/65536    (12.5%) 
+dispinfos                4/0             704/0        ( 0.0%) 
+disp_verts             212/0            4240/0        ( 0.0%) 
+disp_tris              320/0             640/0        ( 0.0%) 
+disp_lmsamples       13096/0           13096/0        ( 0.0%) 
+faces                 9312/65536      521472/3670016  (14.2%) 
+hdr faces             9312/65536      521472/3670016  (14.2%) 
+origfaces             6425/65536      359800/3670016  ( 9.8%) 
+leaves                2735/65536       87520/2097152  ( 4.2%) 
+leaffaces            11915/65536       23830/131072   (18.2%) 
+leafbrushes           7347/65536       14694/131072   (11.2%) 
+areas                    6/1024           48/8192     ( 0.6%) 
+surfedges            71592/512000     286368/2048000  (14.0%) 
+edges                45290/256000     181160/1024000  (17.7%) 
+LDR worldlights          0/16384           0/1441792  ( 0.0%) 
+HDR worldlights        411/16384       36168/1441792  ( 2.5%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips           1043/131072      10430/1310720  ( 0.8%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         20640/131072      41280/262144   (15.7%) 
+cubemapsamples           8/1024          128/16384    ( 0.8%) 
+overlays                54/1024        19008/360448   ( 5.3%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     5894556/0        ( 0.0%) 
+visdata               [variable]       50282/16777216 ( 0.3%) 
+entdata               [variable]      374298/393216   (95.2%) VERY FULL!
+LDR ambient table     2735/65536       10940/262144   ( 4.2%) 
+HDR ambient table     2735/65536       10940/262144   ( 4.2%) 
+LDR leaf ambient      2735/65536       76580/1835008  ( 4.2%) 
+HDR leaf ambient      8037/65536      225036/1835008  (12.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/58330    ( 0.0%) 
+pakfile               [variable]     3391601/0        ( 0.0%) 
+physics               [variable]     1044300/4194304  (24.9%) 
+physics terrain       [variable]        1068/1048576  ( 0.1%) 
+
+Level flags = 2
+
+Total triangle count: 27182
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06backup5.bsp
+29 seconds elapsed

@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Props/metalbarrel001a"
+	"$surfaceprop" "metalpanel"
+	"$color2" "{96 128 255 }"
+}

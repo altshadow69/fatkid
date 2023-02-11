@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals/dev_interiorlight02b"
+	"$decal" 1
+	"$selfillum" 1
+	"$decalscale" .25
+}

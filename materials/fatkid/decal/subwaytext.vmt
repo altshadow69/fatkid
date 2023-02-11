@@ -1,0 +1,52 @@
+"Unlittwotexture"
+{
+	"$basetexture" "fatkid/decal/subwaytext"
+	"$surfaceprop" "glass"
+
+	"$texture2"	"dev/dev_combinescanline"
+
+	"Proxies"
+	{
+
+		"Sine"
+		{
+			"resultVar" "$color[0]"
+			"sineperiod" .1
+			"sinemin" .99
+			"sinemax" 1
+		}
+		"Sine"
+		{
+			"resultVar" "$color[1]"
+			"sineperiod" .1
+			"sinemin" .99
+			"sinemax" 1
+		}
+		"Sine"
+		{
+			"resultVar" "$color[2]"
+			"sineperiod" .1
+			"sinemin" .99
+			"sinemax" 1
+		}
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$texture2transform"
+			"texturescrollrate" .12
+			"texturescrollangle" -90
+		}
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" .04
+			"texturescrollangle" 0
+		}
+
+	}
+
+
+
+
+}

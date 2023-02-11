@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals/overlay_light_guide_b"
+	"$decal" 1
+	"$selfillum" 1
+	"$decalscale" .125
+}

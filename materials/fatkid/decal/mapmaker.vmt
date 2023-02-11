@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "fatkid\decal\mapmaker"
+	"$translucent" 1
+	"$decal" 1
+	"$decalscale" 0.065
+}
