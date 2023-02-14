@@ -7050,3 +7050,1410 @@ Level flags = 0
 Total triangle count: 44534
 Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
 1 minute, 28 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6804.2 2648.2 -348.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013786: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6873.9 2752.6 -348.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013786: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6663.0 2457.0 -160.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013786: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-7120.0 2048.0 -160.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013785: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-7168.0 2185.0 -160.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013785: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-7168.0 2460.4 -160.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013785: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6984.2 2493.7 -348.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013785: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-7133.9 2175.5 -348.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013785: 
+
+*** Suppressing further FindPortalSide errors.... ***
+0...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 3436 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1744167 bytes)
+Error! prop_static using model "models/props_c17/furnitureshelf001b.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_c17/furnitureshelf001b.mdl"!
+Error! prop_static using model "models/props_c17/lamp001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_c17/lamp001a.mdl"!
+Error! prop_static using model "models/props_junk/ibeam01a_cluster01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/ibeam01a_cluster01.mdl"!
+Error! prop_static using model "models/items/item_item_crate.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/items/item_item_crate.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 11409 texinfos to 7147
+Reduced 653 texdatas to 561 (30023 bytes to 26733)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+7 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.prt
+ 878 portalclusters
+1775 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 315 visible clusters (0.50%)
+Total clusters visible: 62685
+Average clusters visible: 71
+Building PAS...
+Average clusters audible: 158
+visdatasize:76452  compressed from 196672
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+PREP OK
+15263 faces
+7 degenerate faces
+2061376 square feet [296838272.00 square inches]
+7 Displacements
+23529 Square Feet [3388269.50 Square Inches]
+15256 patches before subdivision
+Zero area child patch at around -2624.791992 3526.572754 -731.000000
+206602 patches after subdivision
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+669 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 24997111, max 861
+transfer lists: 190.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(347181, 280931, 205365)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(83473, 64368, 42414)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(20351, 15307, 9844)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6808, 5011, 3076)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2235, 1645, 1006)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(868, 625, 363)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(334, 237, 133)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(138, 95, 50)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(57, 38, 19)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(25, 16, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(11, 7, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(5, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0937 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 100/4096         4800/196608   ( 2.4%) 
+brushes               4701/16384       56412/196608   (28.7%) 
+brushsides           46803/163840     374424/1310720  (28.6%) 
+planes               38576/65536      771520/1310720  (58.9%) 
+vertexes             27695/65536      332340/786432   (42.3%) 
+nodes                 4536/65536      145152/2097152  ( 6.9%) 
+texinfos              7147/12288      514584/884736   (58.2%) 
+texdata                561/2048        17952/65536    (27.4%) 
+dispinfos                7/0            1232/0        ( 0.0%) 
+disp_verts             287/0            5740/0        ( 0.0%) 
+disp_tris              416/0             832/0        ( 0.0%) 
+disp_lmsamples       13680/0           13680/0        ( 0.0%) 
+faces                15263/65536      854728/3670016  (23.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            10973/65536      614488/3670016  (16.7%) 
+leaves                4637/65536      148384/2097152  ( 7.1%) 
+leaffaces            19308/65536       38616/131072   (29.5%) 
+leafbrushes          12407/65536       24814/131072   (18.9%) 
+areas                   11/1024           88/8192     ( 1.1%) 
+surfedges           119168/512000     476672/2048000  (23.3%) 
+edges                75233/256000     300932/1024000  (29.4%) 
+LDR worldlights        669/8192        58872/720896   ( 8.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips           1687/32768       16870/327680   ( 5.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         32958/65536       65916/131072   (50.3%) 
+cubemapsamples          62/1024          992/16384    ( 6.1%) 
+overlays                90/1024        31680/360448   ( 8.8%) 
+LDR lightdata         [variable]     8897856/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       76452/16777216 ( 0.5%) 
+entdata               [variable]      730821/393216   (185.9%) VERY FULL!
+LDR ambient table     4637/65536       18548/262144   ( 7.1%) 
+HDR ambient table     4637/65536       18548/262144   ( 7.1%) 
+LDR leaf ambient     13293/65536      372204/1835008  (20.3%) 
+HDR leaf ambient      4637/65536      129836/1835008  ( 7.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/70960    ( 0.0%) 
+pakfile               [variable]     5847108/0        ( 0.0%) 
+physics               [variable]     1744167/4194304  (41.6%) 
+physics terrain       [variable]        1591/1048576  ( 0.2%) 
+
+Level flags = 0
+
+Total triangle count: 44390
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+1 minute, 26 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+PREP OK
+15263 faces
+7 degenerate faces
+2061376 square feet [296838272.00 square inches]
+7 Displacements
+23529 Square Feet [3388269.50 Square Inches]
+15256 patches before subdivision
+Zero area child patch at around -2624.791992 3526.572754 -731.000000
+206602 patches after subdivision
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+669 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 24997111, max 861
+transfer lists: 190.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(347181, 280931, 205365)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(83473, 64368, 42414)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(20351, 15307, 9844)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6808, 5011, 3076)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2235, 1645, 1006)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(868, 625, 363)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(334, 237, 133)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(138, 95, 50)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(57, 38, 19)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(25, 16, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(11, 7, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(5, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1517 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 100/4096         4800/196608   ( 2.4%) 
+brushes               4701/16384       56412/196608   (28.7%) 
+brushsides           46803/163840     374424/1310720  (28.6%) 
+planes               38576/65536      771520/1310720  (58.9%) 
+vertexes             27695/65536      332340/786432   (42.3%) 
+nodes                 4536/65536      145152/2097152  ( 6.9%) 
+texinfos              7147/12288      514584/884736   (58.2%) 
+texdata                561/2048        17952/65536    (27.4%) 
+dispinfos                7/0            1232/0        ( 0.0%) 
+disp_verts             287/0            5740/0        ( 0.0%) 
+disp_tris              416/0             832/0        ( 0.0%) 
+disp_lmsamples       13680/0           13680/0        ( 0.0%) 
+faces                15263/65536      854728/3670016  (23.3%) 
+hdr faces            15263/65536      854728/3670016  (23.3%) 
+origfaces            10973/65536      614488/3670016  (16.7%) 
+leaves                4637/65536      148384/2097152  ( 7.1%) 
+leaffaces            19308/65536       38616/131072   (29.5%) 
+leafbrushes          12407/65536       24814/131072   (18.9%) 
+areas                   11/1024           88/8192     ( 1.1%) 
+surfedges           119168/512000     476672/2048000  (23.3%) 
+edges                75233/256000     300932/1024000  (29.4%) 
+LDR worldlights        669/8192        58872/720896   ( 8.2%) 
+HDR worldlights        669/8192        58872/720896   ( 8.2%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips           1687/32768       16870/327680   ( 5.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         32958/65536       65916/131072   (50.3%) 
+cubemapsamples          62/1024          992/16384    ( 6.1%) 
+overlays                90/1024        31680/360448   ( 8.8%) 
+LDR lightdata         [variable]     8897856/0        ( 0.0%) 
+HDR lightdata         [variable]     8897856/0        ( 0.0%) 
+visdata               [variable]       76452/16777216 ( 0.5%) 
+entdata               [variable]      730821/393216   (185.9%) VERY FULL!
+LDR ambient table     4637/65536       18548/262144   ( 7.1%) 
+HDR ambient table     4637/65536       18548/262144   ( 7.1%) 
+LDR leaf ambient     13293/65536      372204/1835008  (20.3%) 
+HDR leaf ambient     13293/65536      372204/1835008  (20.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/70960    ( 0.0%) 
+pakfile               [variable]     5847108/0        ( 0.0%) 
+physics               [variable]     1744167/4194304  (41.6%) 
+physics terrain       [variable]        1591/1048576  ( 0.2%) 
+
+Level flags = 0
+
+Total triangle count: 44390
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+1 minute, 31 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6804.2 2648.2 -348.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013786: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6873.9 2752.6 -348.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013786: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6663.0 2457.0 -160.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013786: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-7120.0 2048.0 -160.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013785: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-7168.0 2185.0 -160.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013785: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-7168.0 2460.4 -160.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013785: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6984.2 2493.7 -348.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013785: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-7133.9 2175.5 -348.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013785: 
+
+*** Suppressing further FindPortalSide errors.... ***
+0...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 3436 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1742471 bytes)
+Error! prop_static using model "models/props_c17/lamp001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_c17/lamp001a.mdl"!
+Error! prop_static using model "models/props_junk/ibeam01a_cluster01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/ibeam01a_cluster01.mdl"!
+Error! prop_static using model "models/items/item_item_crate.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/items/item_item_crate.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 11398 texinfos to 7141
+Reduced 653 texdatas to 561 (30023 bytes to 26733)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+8 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.prt
+ 878 portalclusters
+1775 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 10100 visible clusters (7.58%)
+Total clusters visible: 133168
+Average clusters visible: 151
+Building PAS...
+Average clusters audible: 320
+visdatasize:107134  compressed from 196672
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+PREP OK
+15250 faces
+7 degenerate faces
+2061251 square feet [296820224.00 square inches]
+7 Displacements
+23529 Square Feet [3388269.50 Square Inches]
+15243 patches before subdivision
+Zero area child patch at around -2624.791992 3526.572754 -731.000000
+206585 patches after subdivision
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+669 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 24988472, max 861
+transfer lists: 190.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(350868, 283701, 207005)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(84094, 64751, 42541)
+Build Patch/Sample Hash Table(s).....Done<0.0848 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 100/4096         4800/196608   ( 2.4%) 
+brushes               4697/16384       56364/196608   (28.7%) 
+brushsides           46774/163840     374192/1310720  (28.5%) 
+planes               38582/65536      771640/1310720  (58.9%) 
+vertexes             27681/65536      332172/786432   (42.2%) 
+nodes                 4538/65536      145216/2097152  ( 6.9%) 
+texinfos              7141/12288      514152/884736   (58.1%) 
+texdata                561/2048        17952/65536    (27.4%) 
+dispinfos                7/0            1232/0        ( 0.0%) 
+disp_verts             287/0            5740/0        ( 0.0%) 
+disp_tris              416/0             832/0        ( 0.0%) 
+disp_lmsamples       13680/0           13680/0        ( 0.0%) 
+faces                15250/65536      854000/3670016  (23.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            10965/65536      614040/3670016  (16.7%) 
+leaves                4639/65536      148448/2097152  ( 7.1%) 
+leaffaces            19277/65536       38554/131072   (29.4%) 
+leafbrushes          12386/65536       24772/131072   (18.9%) 
+areas                   11/1024           88/8192     ( 1.1%) 
+surfedges           119094/512000     476376/2048000  (23.3%) 
+edges                75204/256000     300816/1024000  (29.4%) 
+LDR worldlights        669/8192        58872/720896   ( 8.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips           1685/32768       16850/327680   ( 5.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         32934/65536       65868/131072   (50.3%) 
+cubemapsamples          62/1024          992/16384    ( 6.1%) 
+overlays                90/1024        31680/360448   ( 8.8%) 
+LDR lightdata         [variable]     8895588/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      107134/16777216 ( 0.6%) 
+entdata               [variable]      728060/393216   (185.2%) VERY FULL!
+LDR ambient table     4639/65536       18556/262144   ( 7.1%) 
+HDR ambient table     4639/65536       18556/262144   ( 7.1%) 
+LDR leaf ambient     13062/65536      365736/1835008  (19.9%) 
+HDR leaf ambient      4639/65536      129892/1835008  ( 7.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/72074    ( 0.0%) 
+pakfile               [variable]     5847108/0        ( 0.0%) 
+physics               [variable]     1742471/4194304  (41.5%) 
+physics terrain       [variable]        1591/1048576  ( 0.2%) 
+
+Level flags = 0
+
+Total triangle count: 44350
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+30 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6804.2 2648.2 -348.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013786: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6873.9 2752.6 -348.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013786: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6663.0 2457.0 -160.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013786: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-7120.0 2048.0 -160.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013785: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-7168.0 2185.0 -160.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013785: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-7168.0 2460.4 -160.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013785: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6984.2 2493.7 -348.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013785: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-7133.9 2175.5 -348.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013785: 
+
+*** Suppressing further FindPortalSide errors.... ***
+0...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 3436 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1742471 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 11397 texinfos to 7140
+Reduced 652 texdatas to 560 (30003 bytes to 26713)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+8 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.prt
+ 878 portalclusters
+1775 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 315 visible clusters (0.50%)
+Total clusters visible: 62669
+Average clusters visible: 71
+Building PAS...
+Average clusters audible: 158
+visdatasize:76447  compressed from 196672
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+PREP OK
+15250 faces
+7 degenerate faces
+2061251 square feet [296820224.00 square inches]
+7 Displacements
+23529 Square Feet [3388269.50 Square Inches]
+15243 patches before subdivision
+Zero area child patch at around -2624.791992 3526.572754 -731.000000
+206585 patches after subdivision
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+669 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 24887768, max 861
+transfer lists: 189.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(345714, 279815, 204625)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(83185, 64155, 42287)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(20293, 15268, 9824)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6796, 5004, 3073)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2232, 1643, 1006)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(867, 625, 363)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(333, 237, 133)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(138, 95, 50)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(58, 38, 19)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(25, 16, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(11, 7, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(5, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0784 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 100/4096         4800/196608   ( 2.4%) 
+brushes               4697/16384       56364/196608   (28.7%) 
+brushsides           46774/163840     374192/1310720  (28.5%) 
+planes               38582/65536      771640/1310720  (58.9%) 
+vertexes             27681/65536      332172/786432   (42.2%) 
+nodes                 4538/65536      145216/2097152  ( 6.9%) 
+texinfos              7140/12288      514080/884736   (58.1%) 
+texdata                560/2048        17920/65536    (27.3%) 
+dispinfos                7/0            1232/0        ( 0.0%) 
+disp_verts             287/0            5740/0        ( 0.0%) 
+disp_tris              416/0             832/0        ( 0.0%) 
+disp_lmsamples       13680/0           13680/0        ( 0.0%) 
+faces                15250/65536      854000/3670016  (23.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            10965/65536      614040/3670016  (16.7%) 
+leaves                4639/65536      148448/2097152  ( 7.1%) 
+leaffaces            19277/65536       38554/131072   (29.4%) 
+leafbrushes          12386/65536       24772/131072   (18.9%) 
+areas                   11/1024           88/8192     ( 1.1%) 
+surfedges           119094/512000     476376/2048000  (23.3%) 
+edges                75204/256000     300816/1024000  (29.4%) 
+LDR worldlights        669/8192        58872/720896   ( 8.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips           1685/32768       16850/327680   ( 5.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         32934/65536       65868/131072   (50.3%) 
+cubemapsamples          62/1024          992/16384    ( 6.1%) 
+overlays                90/1024        31680/360448   ( 8.8%) 
+LDR lightdata         [variable]     8895588/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       76447/16777216 ( 0.5%) 
+entdata               [variable]      720842/393216   (183.3%) VERY FULL!
+LDR ambient table     4639/65536       18556/262144   ( 7.1%) 
+HDR ambient table     4639/65536       18556/262144   ( 7.1%) 
+LDR leaf ambient     13254/65536      371112/1835008  (20.2%) 
+HDR leaf ambient      4639/65536      129892/1835008  ( 7.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/75014    ( 0.0%) 
+pakfile               [variable]     5847108/0        ( 0.0%) 
+physics               [variable]     1742471/4194304  (41.5%) 
+physics terrain       [variable]        1591/1048576  ( 0.2%) 
+
+Level flags = 0
+
+Total triangle count: 44350
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+1 minute, 20 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+PREP OK
+15250 faces
+7 degenerate faces
+2061251 square feet [296820224.00 square inches]
+7 Displacements
+23529 Square Feet [3388269.50 Square Inches]
+15243 patches before subdivision
+Zero area child patch at around -2624.791992 3526.572754 -731.000000
+206585 patches after subdivision
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+669 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 24887768, max 861
+transfer lists: 189.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(345714, 279815, 204625)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(83185, 64155, 42287)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(20293, 15268, 9824)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6796, 5004, 3073)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2232, 1643, 1006)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(867, 625, 363)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(333, 237, 133)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(138, 95, 50)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(58, 38, 19)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(25, 16, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(11, 7, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(5, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1273 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 100/4096         4800/196608   ( 2.4%) 
+brushes               4697/16384       56364/196608   (28.7%) 
+brushsides           46774/163840     374192/1310720  (28.5%) 
+planes               38582/65536      771640/1310720  (58.9%) 
+vertexes             27681/65536      332172/786432   (42.2%) 
+nodes                 4538/65536      145216/2097152  ( 6.9%) 
+texinfos              7140/12288      514080/884736   (58.1%) 
+texdata                560/2048        17920/65536    (27.3%) 
+dispinfos                7/0            1232/0        ( 0.0%) 
+disp_verts             287/0            5740/0        ( 0.0%) 
+disp_tris              416/0             832/0        ( 0.0%) 
+disp_lmsamples       13680/0           13680/0        ( 0.0%) 
+faces                15250/65536      854000/3670016  (23.3%) 
+hdr faces            15250/65536      854000/3670016  (23.3%) 
+origfaces            10965/65536      614040/3670016  (16.7%) 
+leaves                4639/65536      148448/2097152  ( 7.1%) 
+leaffaces            19277/65536       38554/131072   (29.4%) 
+leafbrushes          12386/65536       24772/131072   (18.9%) 
+areas                   11/1024           88/8192     ( 1.1%) 
+surfedges           119094/512000     476376/2048000  (23.3%) 
+edges                75204/256000     300816/1024000  (29.4%) 
+LDR worldlights        669/8192        58872/720896   ( 8.2%) 
+HDR worldlights        669/8192        58872/720896   ( 8.2%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips           1685/32768       16850/327680   ( 5.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         32934/65536       65868/131072   (50.3%) 
+cubemapsamples          62/1024          992/16384    ( 6.1%) 
+overlays                90/1024        31680/360448   ( 8.8%) 
+LDR lightdata         [variable]     8895588/0        ( 0.0%) 
+HDR lightdata         [variable]     8895588/0        ( 0.0%) 
+visdata               [variable]       76447/16777216 ( 0.5%) 
+entdata               [variable]      720842/393216   (183.3%) VERY FULL!
+LDR ambient table     4639/65536       18556/262144   ( 7.1%) 
+HDR ambient table     4639/65536       18556/262144   ( 7.1%) 
+LDR leaf ambient     13254/65536      371112/1835008  (20.2%) 
+HDR leaf ambient     13286/65536      372008/1835008  (20.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/75014    ( 0.0%) 
+pakfile               [variable]     5847108/0        ( 0.0%) 
+physics               [variable]     1742471/4194304  (41.5%) 
+physics terrain       [variable]        1591/1048576  ( 0.2%) 
+
+Level flags = 0
+
+Total triangle count: 44350
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+1 minute, 18 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6804.2 2648.2 -348.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013786: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6873.9 2752.6 -348.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013786: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6663.0 2457.0 -160.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013786: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-7120.0 2048.0 -160.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013785: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-7168.0 2185.0 -160.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013785: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-7168.0 2460.4 -160.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013785: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6984.2 2493.7 -348.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013785: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-7133.9 2175.5 -348.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013785: 
+
+*** Suppressing further FindPortalSide errors.... ***
+0...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 3434 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1745383 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 11417 texinfos to 7133
+Reduced 648 texdatas to 556 (29731 bytes to 26439)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+9 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.prt
+ 881 portalclusters
+1781 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 327 visible clusters (0.52%)
+Total clusters visible: 62952
+Average clusters visible: 71
+Building PAS...
+Average clusters audible: 158
+visdatasize:78078  compressed from 197344
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+PREP OK
+15254 faces
+7 degenerate faces
+2061114 square feet [296800448.00 square inches]
+7 Displacements
+23529 Square Feet [3388269.50 Square Inches]
+15247 patches before subdivision
+Zero area child patch at around -2624.791992 3526.572754 -731.000000
+206453 patches after subdivision
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+669 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 24856484, max 861
+transfer lists: 189.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(344369, 278556, 203505)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(82898, 63895, 42075)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(20240, 15222, 9790)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6785, 4995, 3067)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2230, 1642, 1005)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(867, 624, 363)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(333, 237, 133)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(138, 95, 50)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(57, 38, 19)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(25, 16, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(11, 7, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(5, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0706 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 104/4096         4992/196608   ( 2.5%) 
+brushes               4702/16384       56424/196608   (28.7%) 
+brushsides           46811/163840     374488/1310720  (28.6%) 
+planes               38606/65536      772120/1310720  (58.9%) 
+vertexes             27683/65536      332196/786432   (42.2%) 
+nodes                 4576/65536      146432/2097152  ( 7.0%) 
+texinfos              7133/12288      513576/884736   (58.0%) 
+texdata                556/2048        17792/65536    (27.1%) 
+dispinfos                7/0            1232/0        ( 0.0%) 
+disp_verts             287/0            5740/0        ( 0.0%) 
+disp_tris              416/0             832/0        ( 0.0%) 
+disp_lmsamples       13680/0           13680/0        ( 0.0%) 
+faces                15254/65536      854224/3670016  (23.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            10966/65536      614096/3670016  (16.7%) 
+leaves                4681/65536      149792/2097152  ( 7.1%) 
+leaffaces            19275/65536       38550/131072   (29.4%) 
+leafbrushes          12399/65536       24798/131072   (18.9%) 
+areas                   11/1024           88/8192     ( 1.1%) 
+surfedges           119119/512000     476476/2048000  (23.3%) 
+edges                75231/256000     300924/1024000  (29.4%) 
+LDR worldlights        669/8192        58872/720896   ( 8.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips           1683/32768       16830/327680   ( 5.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         33036/65536       66072/131072   (50.4%) 
+cubemapsamples          62/1024          992/16384    ( 6.1%) 
+overlays                90/1024        31680/360448   ( 8.8%) 
+LDR lightdata         [variable]     8895192/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       78078/16777216 ( 0.5%) 
+entdata               [variable]      722374/393216   (183.7%) VERY FULL!
+LDR ambient table     4681/65536       18724/262144   ( 7.1%) 
+HDR ambient table     4681/65536       18724/262144   ( 7.1%) 
+LDR leaf ambient     13355/65536      373940/1835008  (20.4%) 
+HDR leaf ambient      4681/65536      131068/1835008  ( 7.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/75014    ( 0.0%) 
+pakfile               [variable]     5845468/0        ( 0.0%) 
+physics               [variable]     1745383/4194304  (41.6%) 
+physics terrain       [variable]        1591/1048576  ( 0.2%) 
+
+Level flags = 0
+
+Total triangle count: 44367
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+33 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+PREP OK
+15254 faces
+7 degenerate faces
+2061114 square feet [296800448.00 square inches]
+7 Displacements
+23529 Square Feet [3388269.50 Square Inches]
+15247 patches before subdivision
+Zero area child patch at around -2624.791992 3526.572754 -731.000000
+206453 patches after subdivision
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+669 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 24856484, max 861
+transfer lists: 189.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(344369, 278556, 203505)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(82898, 63895, 42075)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(20240, 15222, 9790)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6785, 4995, 3067)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2230, 1642, 1005)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(867, 624, 363)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(333, 237, 133)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(138, 95, 50)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(57, 38, 19)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(25, 16, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(11, 7, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(5, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0996 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 104/4096         4992/196608   ( 2.5%) 
+brushes               4702/16384       56424/196608   (28.7%) 
+brushsides           46811/163840     374488/1310720  (28.6%) 
+planes               38606/65536      772120/1310720  (58.9%) 
+vertexes             27683/65536      332196/786432   (42.2%) 
+nodes                 4576/65536      146432/2097152  ( 7.0%) 
+texinfos              7133/12288      513576/884736   (58.0%) 
+texdata                556/2048        17792/65536    (27.1%) 
+dispinfos                7/0            1232/0        ( 0.0%) 
+disp_verts             287/0            5740/0        ( 0.0%) 
+disp_tris              416/0             832/0        ( 0.0%) 
+disp_lmsamples       13680/0           13680/0        ( 0.0%) 
+faces                15254/65536      854224/3670016  (23.3%) 
+hdr faces            15254/65536      854224/3670016  (23.3%) 
+origfaces            10966/65536      614096/3670016  (16.7%) 
+leaves                4681/65536      149792/2097152  ( 7.1%) 
+leaffaces            19275/65536       38550/131072   (29.4%) 
+leafbrushes          12399/65536       24798/131072   (18.9%) 
+areas                   11/1024           88/8192     ( 1.1%) 
+surfedges           119119/512000     476476/2048000  (23.3%) 
+edges                75231/256000     300924/1024000  (29.4%) 
+LDR worldlights        669/8192        58872/720896   ( 8.2%) 
+HDR worldlights        669/8192        58872/720896   ( 8.2%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips           1683/32768       16830/327680   ( 5.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         33036/65536       66072/131072   (50.4%) 
+cubemapsamples          62/1024          992/16384    ( 6.1%) 
+overlays                90/1024        31680/360448   ( 8.8%) 
+LDR lightdata         [variable]     8895192/0        ( 0.0%) 
+HDR lightdata         [variable]     8895192/0        ( 0.0%) 
+visdata               [variable]       78078/16777216 ( 0.5%) 
+entdata               [variable]      722374/393216   (183.7%) VERY FULL!
+LDR ambient table     4681/65536       18724/262144   ( 7.1%) 
+HDR ambient table     4681/65536       18724/262144   ( 7.1%) 
+LDR leaf ambient     13355/65536      373940/1835008  (20.4%) 
+HDR leaf ambient     13355/65536      373940/1835008  (20.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/75014    ( 0.0%) 
+pakfile               [variable]     5845468/0        ( 0.0%) 
+physics               [variable]     1745383/4194304  (41.6%) 
+physics terrain       [variable]        1591/1048576  ( 0.2%) 
+
+Level flags = 0
+
+Total triangle count: 44367
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+35 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6804.2 2648.2 -348.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013786: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6873.9 2752.6 -348.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013786: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6663.0 2457.0 -160.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013786: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-7120.0 2048.0 -160.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013785: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-7168.0 2185.0 -160.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013785: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-7168.0 2460.4 -160.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013785: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6984.2 2493.7 -348.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013785: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-7133.9 2175.5 -348.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2013785: 
+
+*** Suppressing further FindPortalSide errors.... ***
+0...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 3434 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1745127 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 11420 texinfos to 7133
+Reduced 648 texdatas to 556 (29731 bytes to 26439)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+8 seconds elapsed
+
+
+
+8 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.prt
+ 881 portalclusters
+1781 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 10134 visible clusters (7.58%)
+Total clusters visible: 133691
+Average clusters visible: 151
+Building PAS...
+Average clusters audible: 320
+visdatasize:107663  compressed from 197344
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+PREP OK
+15219 faces
+7 degenerate faces
+2061228 square feet [296816896.00 square inches]
+7 Displacements
+23529 Square Feet [3388269.50 Square Inches]
+15212 patches before subdivision
+Zero area child patch at around -2624.791992 3526.572754 -731.000000
+206448 patches after subdivision
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 128.000000 but _zero_percent_distance of 0.000000
+670 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 24852897, max 861
+transfer lists: 189.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(348238, 281440, 205238)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(83555, 64308, 42221)
+Build Patch/Sample Hash Table(s).....Done<0.0717 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 104/4096         4992/196608   ( 2.5%) 
+brushes               4702/16384       56424/196608   (28.7%) 
+brushsides           46811/163840     374488/1310720  (28.6%) 
+planes               38618/65536      772360/1310720  (58.9%) 
+vertexes             27633/65536      331596/786432   (42.2%) 
+nodes                 4586/65536      146752/2097152  ( 7.0%) 
+texinfos              7133/12288      513576/884736   (58.0%) 
+texdata                556/2048        17792/65536    (27.1%) 
+dispinfos                7/0            1232/0        ( 0.0%) 
+disp_verts             287/0            5740/0        ( 0.0%) 
+disp_tris              416/0             832/0        ( 0.0%) 
+disp_lmsamples       13680/0           13680/0        ( 0.0%) 
+faces                15219/65536      852264/3670016  (23.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            10966/65536      614096/3670016  (16.7%) 
+leaves                4691/65536      150112/2097152  ( 7.2%) 
+leaffaces            19252/65536       38504/131072   (29.4%) 
+leafbrushes          12415/65536       24830/131072   (18.9%) 
+areas                   11/1024           88/8192     ( 1.1%) 
+surfedges           118833/512000     475332/2048000  (23.2%) 
+edges                75034/256000     300136/1024000  (29.3%) 
+LDR worldlights        670/8192        58960/720896   ( 8.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips           1683/32768       16830/327680   ( 5.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         33036/65536       66072/131072   (50.4%) 
+cubemapsamples          62/1024          992/16384    ( 6.1%) 
+overlays                90/1024        31680/360448   ( 8.8%) 
+LDR lightdata         [variable]     8894528/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      107663/16777216 ( 0.6%) 
+entdata               [variable]      723176/393216   (183.9%) VERY FULL!
+LDR ambient table     4691/65536       18764/262144   ( 7.2%) 
+HDR ambient table     4691/65536       18764/262144   ( 7.2%) 
+LDR leaf ambient     13184/65536      369152/1835008  (20.1%) 
+HDR leaf ambient      4691/65536      131348/1835008  ( 7.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/75080    ( 0.0%) 
+pakfile               [variable]     5845468/0        ( 0.0%) 
+physics               [variable]     1745127/4194304  (41.6%) 
+physics terrain       [variable]        1591/1048576  ( 0.2%) 
+
+Level flags = 0
+
+Total triangle count: 44151
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\fatkid_underground06\maps\fatkid_underground06.bsp
+26 seconds elapsed
